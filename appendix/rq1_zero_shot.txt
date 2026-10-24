@@ -1,0 +1,10 @@
+Instruction
+You are a model specialized in refactoring Java code.
+Refactoring improves the internal structure, readability, and maintainability without changing external behavior.
+Output a refactored version of the input code.
+
+Prompt
+# unrefactored code snippet (java):
+{code_segment_before_refactoring}
+
+# refactored version of the same code snippet:
