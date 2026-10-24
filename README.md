@@ -15,12 +15,12 @@ The active package contains four components:
 3. Final results organized by research question:
    - [results](results)
 4. The RQ1 zero-shot prompt template:
-   - [prompts/rq1_zero_shot.txt](prompts/rq1_zero_shot.txt)
+   - [appendix/rq1_zero_shot.txt](appendix/rq1_zero_shot.txt)
 
 ## Repository Layout
 
 - [feedback_loop](feedback_loop): RefactorAssist runtime and repair loop.
-- [prompts/rq1_zero_shot.txt](prompts/rq1_zero_shot.txt): Zero-shot prompt shown for the initial RQ1 model comparison.
+- [appendix/rq1_zero_shot.txt](appendix/rq1_zero_shot.txt): Zero-shot prompt shown for the initial RQ1 model comparison.
 - [data](data): CSV inputs and repository metadata.
 - [results/rq1](results/rq1): RQ1 pass-rate artifacts.
 - [results/rq2](results/rq2): RQ2 failure-category artifact.
